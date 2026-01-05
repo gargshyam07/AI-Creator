@@ -1,0 +1,5 @@
+{
+  "name": "AI Influencer Orchestrator",
+  "description": "A comprehensive dashboard to manage an autonomous AI Instagram Influencer system. Features hierarchical content planning, Gemini-powered caption and image generation, human-in-the-loop approval workflows, and system architecture documentation.",
+  "requestFramePermissions": []
+}
